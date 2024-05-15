@@ -1,0 +1,90 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+body{
+    
+    background-image: url(bgpic.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.gclogo {
+    position: fixed;
+    height: 120px;
+    right: 130px;
+    margin-top: -50px;
+    width: 120px;
+    border-radius: 60px;
+}
+.cahslogo {
+    position: fixed;
+    right: 250px;
+    margin-top: 80px;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+.cbalogo{
+    position: fixed;
+    right: 150px;
+    margin-top: 80px;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+.ccslogo{
+    position: fixed;
+    right: 50px;
+    margin-top: 80px;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+.ceaslogo{
+    position: fixed;
+    right: 200px;
+    margin-top: 160px;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+.chtmlogo{
+    position: fixed;
+    right: 100px;
+    margin-top: 160px;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+header{
+    padding-top: 40px;
+    font-size: 60px;
+}
+
+.navfloors ul{
+    list-style: none;
+    background-color: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navfloors a{
+    color: white;
+    text-decoration: none;
+}
+.navfloors a:hover{
+    background-color: rgb(73, 72, 72);
+    border-radius: 50px;
+}
+.navfloors li{
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+}
+
